@@ -2,8 +2,8 @@
 
 <H1 ALIGN=CENTER> Experiment-4: Implementation of Hidden Markov Model </H1>
 
-### Name: 
-### Register Number:
+### Name: Yogavarma
+### Register Number: 2305002029
 
 ## Aim: 
 To construct a Python code to find the sequence of hidden states by the known sequence of observances using Hidden Markov Model. Consider two hidden states Sunny and Rainy with observable states,happy and sad.
@@ -56,6 +56,11 @@ print("The most likely sequence of weather is:",most_likely_sequence)
 ---
 
 ## Output:
+
+```
+The probability of observed sequence is: 0.018906881625
+The most likely sequence of weather is: ['sunny', 'sunny', 'sunny', 'rainy', 'rainy', 'sunny']
+```
 
 
 ---
